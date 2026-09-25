@@ -67,3 +67,9 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+#extra files
+.vs/
+workbook2/workbook2/workbook2.vcxproj.filters
+workbook2/workbook2/workbook2.vcxproj.user
+x64/
